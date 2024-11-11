@@ -11,7 +11,7 @@
 
 #### Installation and Prequesites 
 - should have docker and docker-compose installed on machine
-- `git clone git@github.com:rupesharlekar/robot_framework_tests.git  && cd robot_framework_tests`  
+- `git clone https://github.com/rupesharlekar/ski_leo_assignment.git  && cd ski_leo_assignment`  
 - `sudo docker build -t robot-framework-tests .`
 
 #### How to run tests
