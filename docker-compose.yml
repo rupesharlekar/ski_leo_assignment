@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  robot-tests:
+    build: .
+    volumes:
+      - .:/app
+      - ./results:/app/results
+    container_name: robot-tests
