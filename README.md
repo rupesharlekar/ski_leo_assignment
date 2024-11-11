@@ -15,4 +15,8 @@
 - `sudo docker build -t robot-framework-tests .`
 
 #### How to run tests
-`sudo docker compose up --build`
+- `sudo docker compose up --build`
+
+
+####  Result
+- Result are copied outside the container in the directory that has code cloned `../ski_leo_assignment/results`
